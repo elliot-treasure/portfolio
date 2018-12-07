@@ -1,0 +1,4 @@
+HTML validated as of 12/7/2018
+
+.about
+    This site is intended for employment purposes only. 
